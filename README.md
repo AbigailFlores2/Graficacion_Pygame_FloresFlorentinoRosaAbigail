@@ -13,7 +13,7 @@ Crea una ventana de 1000x800 píxeles, le pone el título "Mi primer programa gr
 Modifica el código de la Sesion1_ej1 para que el programa se pueda cerrar manualmente con la tecla de ESCAPE.
 
 ## Sesion1_ej3 
-Agrega un contador que imprime en la terminal en numero de frame actual y agrega que el programa se detenga automáticamente cuando la ventana hasta llega alos 300 frames. 
+Agrega un contador que imprime en la terminal en numero de frame actual y agrega que el programa se detenga automáticamente cuando la ventana llege hasta los 300 frames. 
 
 ## Sesion1_mini
 Crea una ventana con un color de fondo que pueda cambier el color al precionar la tecla "c".
